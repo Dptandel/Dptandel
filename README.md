@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm DHARMIN TANDEL</h1>
-<h3 align="center">Fresher</h3>
+<h3 align="center">I'm passionate Web & App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dptandel&label=Profile%20views&color=0e75b6&style=flat" alt="dptandel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dptandel" alt="dptandel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dharmin_007" target="blank"><img src="https://img.shields.io/twitter/follow/dharmin_007?logo=twitter&style=for-the-badge" alt="dharmin_007" /></a> </p>
-
 - 🌱 I’m currently learning **PHP,JavaScript,etc.**
-
-- 👨‍💻 All of my projects are available at [https://dptandel.github.io/portfolio2-dharmin.github.io/](https://dptandel.github.io/portfolio2-dharmin.github.io/)
 
 - 📫 How to reach me **dharmin28052002@gmail.com**
 
