@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dptandel&label=Profile%20views&color=0e75b6&style=flat" alt="dptandel" /> </p>
 
-- 🌱 I’m currently learning **PHP,JavaScript,etc.**
+- 🌱 I’m currently learning **PHP,JavaScript,ReactJS,etc.**
 
 - 📫 How to reach me **dharmin28052002@gmail.com**
 
